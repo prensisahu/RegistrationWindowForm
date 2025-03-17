@@ -19,8 +19,7 @@ This is a simple **Windows Forms Application** built using C# that provides a **
 
 ## Screenshots
 _images here_
-1. **Registration Form**
-![Screenshot 2025-03-17 143346](https://github.com/user-attachments/assets/2d2556be-31f5-4188-ac72-89ddb61b0466)
+1. **Registration Form** ![Screenshot 2025-03-17 143346](https://github.com/user-attachments/assets/2d2556be-31f5-4188-ac72-89ddb61b0466)
 
 
 2. **Login Form**
